@@ -19,7 +19,7 @@ node 'cheese.com' {
 ```
 
 ## Dependencies
-Note: You will need to extract the signing certificate from the installer and save it with the installer. This is because of how virtual clone drive is presenting itself to the OS.
-staging
-ACL
-windows_facts
+Note: You will need to extract the signing certificate from the installer and save it with the installer. This is because of how virtual clone drive is presenting itself to the OS.  
+staging  
+ACL  
+windows_facts  
