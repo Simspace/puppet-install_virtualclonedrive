@@ -1,0 +1,26 @@
+*~
+
+*.swp
+
+# Mac stuff
+*.DS_Store
+
+GemFile.lock
+Gemfile.lock
+
+spec/fixtures
+
+# vagrant stuff
+vagrant/modules
+vagrant/.vagrant
+vagrant/logstashforwarder*
+
+# beaker
+.vagrant
+
+# bundler
+.bundle
+vendor
+
+# junit formatting
+results.xml
