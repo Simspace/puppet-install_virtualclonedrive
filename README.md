@@ -7,7 +7,7 @@
 4. [Development](#development)
 
 ## Overview
-This module will install Firefox on Windows hosts
+This module will install virtual clone drive  on Windows hosts
 
 ## Description
 In params.pp is the location to the installer.
@@ -21,3 +21,4 @@ node 'cheese.com' {
 ## Dependencies
 staging
 ACL
+windows_facts
